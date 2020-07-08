@@ -27,4 +27,4 @@ right‐click for y axis
 
 # Exercise -3
 * If we only need output five outliers based on **Diabetes pedigree function**, how?
-* If we need to identify the outliers (i.e., the values of feature **Diabetes pedigree function** > 1.6)
+* For this data, we identify the outliers with the values of feature **Diabetes pedigree function** >= 1.6. How to achieve this goal?
