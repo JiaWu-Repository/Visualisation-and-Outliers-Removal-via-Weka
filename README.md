@@ -26,5 +26,5 @@ right‐click for y axis
 * Apply InterquartileRange and report the outliers only based on the feature **Diabetes pedigree function**;
 
 # Exercise -3
-* If we only need output five outliers based on **Diabetes pedigree function**, how?
+* If we only need to output five outliers based on **Diabetes pedigree function**, how?
 * For this data, we identify the outliers with the values of feature **Diabetes pedigree function** >= 1.6. How to achieve this goal?
