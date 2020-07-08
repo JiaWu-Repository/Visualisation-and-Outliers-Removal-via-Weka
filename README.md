@@ -14,3 +14,17 @@ right‐click for y axis
 * Jitter slider
 * Show Select Instance: Rectangle option
 * Submit, Reset, Clear and Save
+
+# Exercise -1
+* Open diabetes data;
+* Use the Visualize panel to select the outliers based on the feature **Diabetes pedigree function**.
+
+# Exercise -2
+* Find the InterquartileRange in the Filter;
+* Read the detailed information;
+* Apply InterquartileRange and report the outliers;
+* Apply InterquartileRange and report the outliers only based on the feature **Diabetes pedigree function**;
+
+# Exercise -3
+* If we only need output five outliers based on **Diabetes pedigree function**, how?
+* If we need to identify the outliers (i.e., the values of feature **Diabetes pedigree function** > 1.6)
