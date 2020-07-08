@@ -23,7 +23,7 @@ right‐click for y axis
 * Find the InterquartileRange in the Filter;
 * Read the detailed information;
 * Apply InterquartileRange and report the outliers;
-* Apply InterquartileRange and report the outliers only based on the feature **Diabetes pedigree function**;
+* Apply InterquartileRange and report the outliers only based on the feature **Diabetes pedigree function**.
 
 # Exercise -3
 * If we only need to output five outliers based on **Diabetes pedigree function**, how?
